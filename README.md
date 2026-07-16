@@ -18,7 +18,7 @@
 
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
-git clone https://github.com/<你的用户名>/dev-flow.git "${CODEX_HOME:-$HOME/.codex}/skills/dev-flow"
+git clone https://github.com/whc1991/dev-flow.git "${CODEX_HOME:-$HOME/.codex}/skills/dev-flow"
 ```
 
 将示例地址替换为实际 GitHub 仓库地址。安装后重新开启 Codex 会话。
