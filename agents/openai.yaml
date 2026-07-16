@@ -1,4 +1,4 @@
 interface:
   display_name: "开发流程"
-  short_description: "按用户指定范围串行开发功能或 PR，并在聚焦测试后等待确认"
+  short_description: "串行开发当前功能或 PR，完成后提示下一待开发单元"
   default_prompt: "$dev-flow PR4"
