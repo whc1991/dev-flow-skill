@@ -1,4 +1,4 @@
 interface:
-  display_name: "开发流程"
+  display_name: "dev-flow"
   short_description: "串行开发当前功能或 PR，完成后提示下一待开发单元"
   default_prompt: "$dev-flow PR4"
