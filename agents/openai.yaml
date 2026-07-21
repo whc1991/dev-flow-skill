@@ -1,4 +1,4 @@
 interface:
   display_name: "dev-flow"
-  short_description: "串行开发当前功能或 PR，完成后提示下一待开发单元"
-  default_prompt: "$dev-flow PR4"
+  short_description: "按冻结需求与硬性约束串行开发当前 PR，并输出实现覆盖矩阵"
+  default_prompt: "$dev-flow PR4，按冻结基线挂载约束并完成当前开发单元。"
